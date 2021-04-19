@@ -3,7 +3,6 @@ import split = require('@splitsoftware/splitio');
 
 const factory: SplitIO.ISDK = split.SplitFactory({
   core: {
-    authorizationKey: ''
   }
 });
 
